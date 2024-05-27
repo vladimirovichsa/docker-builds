@@ -1,7 +1,7 @@
 [submodule "temporal"]
 	path = temporal
 	url = https://github.com/vladimirovichsa/temporal
-	branch = param_gocql_authenticator
+	branch = main
 [submodule "tctl"]
 	path = tctl
 	url = https://github.com/temporalio/tctl
